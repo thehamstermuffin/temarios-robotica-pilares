@@ -1,7 +1,7 @@
 # Ingenia con movimiento Robótica Creativa con LEGO
 
 ## Descripción del Taller
-Ingenia con Movimiento: Robótica Creativa con LEGO es un taller formativo orientado al desarrollo del pensamiento lógico, la creatividad tecnológica y el trabajo colaborativo mediante la construcción y programación de robots educativos.
+**Ingenia con Movimiento: Robótica Creativa con LEGO** es un taller formativo orientado al desarrollo del pensamiento lógico, la creatividad tecnológica y el trabajo colaborativo mediante la construcción y programación de robots educativos.
 
 Durante el taller, las y los participantes explorarán los fundamentos de la robótica desde una perspectiva práctica, diseñando prototipos funcionales capaces de ejecutar movimientos y responder a estímulos del entorno.
 
@@ -61,13 +61,13 @@ dialogando ideas y soluciones con sus compañeros para fomentar el
 aprendizaje colectivo.
 
 ### Duración
-La duración del taller se establece en 24 horas como referencia para el desarrollo completo de los contenidos y la construcción de un proyecto robótico funcional.
+La duración del taller se establece en **24 horas** como referencia para el desarrollo completo de los contenidos y la construcción de un proyecto robótico funcional.
 
 No obstante, el facilitador podrá ajustar la duración —por ejemplo, a 20 horas— si, con base en la evaluación diagnóstica o el avance del grupo, se considera que los participantes han alcanzado los objetivos de aprendizaje.
 
 Esta flexibilidad permite adaptar el ritmo del taller sin comprometer la comprensión ni la aplicación práctica de los conocimientos.
 
-Recordemos que lo más importante es alcanzar el objetivo de aprendizaje.
+**Recordemos que lo más importante es alcanzar el objetivo de aprendizaje.**
 
 
 ## Estructura del taller
@@ -90,46 +90,36 @@ Recordemos que lo más importante es alcanzar el objetivo de aprendizaje.
 ## Material de apoyo:
 
 - Kits de robótica LEGO (Spike / Mindstorms o equivalente)
-
 - Computadoras o tabletas con software de programación
-
 - Espacio con energía eléctrica
-
 - Pistas de prueba
-
 - Proyector o pantalla
-
 - Bitácora del participante
+
 Material complementario:
 
 - Guías visuales
-
 - Retos impresos
-
 - Videos demostrativos
 
 
 ## Evaluación
-La evaluación se concibe como un proceso de acompañamiento centrado en la
-experiencia del participante y la aplicación práctica de sus aprendizajes.
+La evaluación se concibe como un proceso de acompañamiento centrado en la experiencia del participante y la aplicación práctica de sus aprendizajes.
+
 ### Principios:
 
 - No se prioriza la calificación numérica.
-
 - El participante reflexiona sobre su propio avance.
-
 - El facilitador brinda retroalimentación constructiva.
-
 - La evaluación es práctica y observable.
+
 ### Evidencias de aprendizaje:
 
 - Participación activa
-
 - Desarrollo del robot
-
 - Resolución de retos
-
 - Presentación del proyecto
+
 Infancias , Checklist
 Jóvenes, Reporte de proyecto
 Adultos , Checklist
@@ -181,18 +171,14 @@ Diana Frine Zamano Macedonio
 Francisco Daniel Díaz Díaz
 
 Reconocimiento-NoComercial-Compartirigual 4.0 Internacional
-Uso básico del celular es de acceso abierto distribuida bajo los términos de la licencia Creative
-Commons Reconocimiento-NoComercial-Compartirigual 4.0 Internacional. Se autoriza la
-reproducción total o parcial de los textos aquí publicados siempre que se cite la fuente con
-referencia a Uso básico del celular y a sus autores. No se puede usar con fines comerciales y
-los términos legales de cualquier trabajo derivado deben ser los mismos que se expresan en la
-presente declaración.
+
+**Ingenia con movimiento Robótica Creativa con LEGO** es de acceso abierto distribuida bajo los términos de la licencia Creative Commons Reconocimiento-NoComercial-Compartirigual 4.0 Internacional. Se autoriza la reproducción total o parcial de los textos aquí publicados siempre que se cite la fuente con referencia a **Ingenia con movimiento Robótica Creativa con LEGO** y a sus autores. No se puede usar con fines comerciales y los términos legales de cualquier trabajo derivado deben ser los mismos que se expresan en la presente declaración.
 
 # Crea y Conecta: Electrónica y Control con Arduino
 
 ## Descripción del Taller
 
-Crea y Conecta: Electrónica y Control con Arduino es un taller orientado al desarrollo de competencias tecnológicas mediante la exploración de la electrónica básica y la programación aplicada al control de dispositivos.
+**Crea y Conecta: Electrónica y Control con Arduino** es un taller orientado al desarrollo de competencias tecnológicas mediante la exploración de la electrónica básica y la programación aplicada al control de dispositivos.
 
 A lo largo del curso, las y los participantes aprenderán a construir circuitos, interpretar señales eléctricas y programar microcontroladores para automatizar tareas, transformando ideas en prototipos funcionales.
 
@@ -227,13 +213,9 @@ Al finalizar el curso, las y los participantes diseñarán y programarán sistem
 Al finalizar el curso:
 
 - El participante identificará los fundamentos de la electricidad y la electrónica mediante la construcción de circuitos básicos, con la finalidad de comprender el flujo de energía y su aplicación práctica.
-
 - El participante interpretará diagramas electrónicos sencillos para conectar correctamente componentes, fortaleciendo su razonamiento técnico.
-
 - El participante programará microcontroladores utilizando el entorno Arduino IDE, desarrollando estructuras lógicas para el control de dispositivos.
-
 - El participante integrará sensores y actuadores en prototipos funcionales, con el propósito de automatizar tareas simples.
-
 - El participante desarrollará un proyecto tecnológico colaborativo que responda a una necesidad cotidiana, promoviendo la innovación comunitaria.
 
 ### Duración
@@ -338,13 +320,13 @@ Adultos, Checklist
 
 ## Referencias
 
-- Banzi, M., & Shiloh, M. (2014). Getting started with Arduino (2nd ed.). Maker Media.
+- Banzi, M., & Shiloh, M. (2014). *Getting started with Arduino* (2nd ed.). Maker Media.
 
-- Monk, S. (2016). Programming Arduino: Getting started with sketches (2nd ed.). McGraw-Hill Education.
+- Monk, S. (2016). *Programming Arduino: Getting started with sketches* (2nd ed.). McGraw-Hill Education.
 
-- Hughes, J. (2016). Arduino: A technical reference. O'Reilly Media.
+- Hughes, J. (2016). *Arduino: A technical reference.* O'Reilly Media.
 
-- Margolis, M. (2011). Arduino cookbook. O'Reilly Media.
+- Margolis, M. (2011). *Arduino cookbook.* O'Reilly Media.
 
 ---
 
@@ -372,14 +354,14 @@ Diana Frine Zamano Macedonio
 
 Francisco Daniel Díaz Díaz
 
-Reconocimiento-NoComercial-Compartirigual 4.0 Internacional
-Uso básico del celular es de acceso abierto distribuida bajo los términos de la licencia Creative Commons Reconocimiento-NoComercial-Compartirigual 4.0 Internacional. Se autoriza la reproducción total o parcial de los textos aquí publicados siempre que se cite la fuente con referencia a Uso básico del celular y a sus autores. No se puede usar con fines comerciales y los términos legales de cualquier trabajo derivado deben ser los mismos que se expresan en la presente declaración.
+**Reconocimiento-NoComercial-Compartirigual 4.0 Internacional**
+**Crea y Conecta: Electrónica y Control con Arduino** es de acceso abierto distribuida bajo los términos de la licencia Creative Commons Reconocimiento-NoComercial-Compartirigual 4.0 Internacional. Se autoriza la reproducción total o parcial de los textos aquí publicados siempre que se cite la fuente con referencia a **Crea y Conecta: Electrónica y Control con Arduino** y a sus autores. No se puede usar con fines comerciales y los términos legales de cualquier trabajo derivado deben ser los mismos que se expresan en la presente declaración.
 
 # Mueve tu Idea: Robótica Móvil e Inteligente
 
 ## Descripción del Taller
 
-Mueve tu Idea: Robótica Móvil e Inteligente es un taller diseñado para introducir a las y los participantes en el diseño, construcción y programación de robots capaces de desplazarse de manera autónoma o controlada.
+**Mueve tu Idea: Robótica Móvil e Inteligente** es un taller diseñado para introducir a las y los participantes en el diseño, construcción y programación de robots capaces de desplazarse de manera autónoma o controlada.
 
 A través de experiencias prácticas, explorarán los principios de locomoción, control de motores, uso de sensores y lógica de navegación, transformando ideas en prototipos funcionales que interactúan con su entorno.
 
@@ -532,11 +514,11 @@ Adultos, Checklist
 
 ## Referencias
 
-- Siegwart, R., Nourbakhsh, I. R., & Scaramuzza, D. (2011). Introduction to autonomous mobile robots (2nd ed.). MIT Press.
+- Siegwart, R., Nourbakhsh, I. R., & Scaramuzza, D. (2011). *Introduction to autonomous mobile robots* (2nd ed.). MIT Press.
 
-- Dudek, G., & Jenkin, M. (2010). Computational principles of mobile robotics (2nd ed.). Cambridge University Press.
+- Dudek, G., & Jenkin, M. (2010). *Computational principles of mobile robotics* (2nd ed.). Cambridge University Press.
 
-- Jones, J. L., Flynn, A. M., & Seiger, B. A. (1999). Mobile robots: Inspiration to implementation. A K Peters.
+- Jones, J. L., Flynn, A. M., & Seiger, B. A. (1999). *Mobile robots: Inspiration to implementation.* A K Peters.
 
 ---
 
@@ -565,13 +547,13 @@ Diana Frine Zamano Macedonio
 Francisco Daniel Díaz Díaz
 
 Reconocimiento-NoComercial-Compartirigual 4.0 Internacional
-Uso básico del celular es de acceso abierto distribuida bajo los términos de la licencia Creative Commons Reconocimiento-NoComercial-Compartirigual 4.0 Internacional. Se autoriza la reproducción total o parcial de los textos aquí publicados siempre que se cite la fuente con referencia a Uso básico del celular y a sus autores. No se puede usar con fines comerciales y los términos legales de cualquier trabajo derivado deben ser los mismos que se expresan en la presente declaración.
+**Mueve tu Idea: Robótica Móvil e Inteligente** es de acceso abierto distribuida bajo los términos de la licencia Creative Commons Reconocimiento-NoComercial-Compartirigual 4.0 Internacional. Se autoriza la reproducción total o parcial de los textos aquí publicados siempre que se cite la fuente con referencia a **Mueve tu Idea: Robótica Móvil e Inteligente** y a sus autores. No se puede usar con fines comerciales y los términos legales de cualquier trabajo derivado deben ser los mismos que se expresan en la presente declaración.
 
 # Conecta tu Mundo: IoT y Automatización
 
 ## Descripción del Taller
 
-Conecta tu Mundo: IoT y Automatización es un taller formativo orientado al desarrollo de competencias tecnológicas mediante la conexión de dispositivos inteligentes capaces de recopilar datos, comunicarse entre sí y automatizar procesos cotidianos.
+*Conecta tu Mundo: IoT y Automatización* es un taller formativo orientado al desarrollo de competencias tecnológicas mediante la conexión de dispositivos inteligentes capaces de recopilar datos, comunicarse entre sí y automatizar procesos cotidianos.
 
 Durante el curso, las y los participantes comprenderán los fundamentos del Internet de las Cosas (IoT), explorarán tecnologías de conectividad y diseñarán sistemas automatizados que respondan a necesidades reales de su entorno.
 
@@ -755,13 +737,13 @@ Diana Frine Zamano Macedonio
 Francisco Daniel Díaz Díaz
 
 Reconocimiento-NoComercial-Compartirigual 4.0 Internacional
-Uso básico del celular es de acceso abierto distribuida bajo los términos de la licencia Creative Commons Reconocimiento-NoComercial-Compartirigual 4.0 Internacional. Se autoriza la reproducción total o parcial de los textos aquí publicados siempre que se cite la fuente con referencia a Uso básico del celular y a sus autores. No se puede usar con fines comerciales y los términos legales de cualquier trabajo derivado deben ser los mismos que se expresan en la presente declaración.
+**Conecta tu Mundo: IoT y Automatización** es de acceso abierto distribuida bajo los términos de la licencia Creative Commons Reconocimiento-NoComercial-Compartirigual 4.0 Internacional. Se autoriza la reproducción total o parcial de los textos aquí publicados siempre que se cite la fuente con referencia a **Conecta tu Mundo: IoT y Automatización** y a sus autores. No se puede usar con fines comerciales y los términos legales de cualquier trabajo derivado deben ser los mismos que se expresan en la presente declaración.
 
 # Domótica Comunitaria: Tecnología para el Hogar Inteligente
 
 ## Descripción del Taller
 
-Domótica Comunitaria: Tecnología para el Hogar Inteligente es un taller orientado al desarrollo de soluciones tecnológicas que permitan mejorar la seguridad, el confort y la eficiencia energética en los hogares mediante sistemas automatizados.
+**Domótica Comunitaria: Tecnología para el Hogar Inteligente** es un taller orientado al desarrollo de soluciones tecnológicas que permitan mejorar la seguridad, el confort y la eficiencia energética en los hogares mediante sistemas automatizados.
 
 Durante el curso, las y los participantes explorarán los fundamentos de la automatización doméstica, integrando sensores, actuadores y plataformas digitales para diseñar prototipos funcionales capaces de responder a condiciones del entorno.
 
@@ -918,13 +900,13 @@ Adultos, Checklist
 
 ## Referencias
 
-- Harper, R. (Ed.). (2003). Inside the smart home. Springer.
+- Harper, R. (Ed.). (2003). *Inside the smart home.* Springer.
 
-- Aldrich, F. (2003). Smart homes: Past, present and future. Inside the Smart Home, 17–39.
+- Aldrich, F. (2003). *Smart homes: Past, present and future. Inside the Smart Home,* 17–39.
 
-- Chan, M., Estève, D., Escriba, C., & Campo, E. (2008). A review of smart homes—Present state and future challenges. Computer Methods and Programs in Biomedicine, 91(1), 55–81.
+- Chan, M., Estève, D., Escriba, C., & Campo, E. (2008). *A review of smart homes—Present state and future challenges. Computer Methods and Programs in Biomedicine,* 91(1), 55–81.
 
-- Balta-Ozkan, N., Davidson, R., Bicket, M., & Whitmarsh, L. (2013). Social barriers to the adoption of smart homes. Energy Policy, 63, 363–374.
+- Balta-Ozkan, N., Davidson, R., Bicket, M., & Whitmarsh, L. (2013). *Social barriers to the adoption of smart homes.* Energy Policy, 63, 363–374.
 
 ---
 
@@ -953,7 +935,7 @@ Diana Frine Zamano Macedonio
 Francisco Daniel Díaz Díaz
 
 Reconocimiento-NoComercial-Compartirigual 4.0 Internacional
-Uso básico del celular es de acceso abierto distribuida bajo los términos de la licencia Creative Commons Reconocimiento-NoComercial-Compartirigual 4.0 Internacional. Se autoriza la reproducción total o parcial de los textos aquí publicados siempre que se cite la fuente con referencia a Uso básico del celular y a sus autores. No se puede usar con fines comerciales y los términos legales de cualquier trabajo derivado deben ser los mismos que se expresan en la presente declaración.
+**Domótica Comunitaria: Tecnología para el Hogar Inteligente** es de acceso abierto distribuida bajo los términos de la licencia Creative Commons Reconocimiento-NoComercial-Compartirigual 4.0 Internacional. Se autoriza la reproducción total o parcial de los textos aquí publicados siempre que se cite la fuente con referencia a **Domótica Comunitaria: Tecnología para el Hogar Inteligente** y a sus autores. No se puede usar con fines comerciales y los términos legales de cualquier trabajo derivado deben ser los mismos que se expresan en la presente declaración.
 
 # Crea, Imagina y Programa: Tecnología Creativa para la Comunidad
 
@@ -1126,13 +1108,13 @@ La evaluación se concibe como un proceso de acompañamiento centrado en la expe
 
 ## Referencias
 
-- Wing, J. M. (2006). Computational thinking. Communications of the ACM, 49(3), 33–35.
+- Wing, J. M. (2006). *Computational thinking. Communications of the ACM,* 49(3), 33–35.
 
-- Resnick, M. (2017). Lifelong kindergarten. MIT Press.
+- Resnick, M. (2017). *Lifelong kindergarten*. MIT Press.
 
-- Brown, T. (2009). Change by design. HarperBusiness.
+- Brown, T. (2009). *Change by design.* HarperBusiness.
 
-- Kelley, T., & Kelley, D. (2013). Creative confidence. Crown Business.
+- Kelley, T., & Kelley, D. (2013).* Creative confidence.* Crown Business.
 
 ---
 
@@ -1164,13 +1146,13 @@ Francisco Daniel Díaz Díaz
 
 Reconocimiento-NoComercial-Compartirigual 4.0 Internacional
 
-*Crea, Imagina y Programa: Tecnología Creativa para la Comunidad* es de acceso abierto distribuida bajo los términos de la licencia Creative Commons Reconocimiento-NoComercial-Compartirigual 4.0 Internacional. Se autoriza la reproducción total o parcial de los textos aquí publicados siempre que se cite la fuente con referencia a *Crea, Imagina y Programa: Tecnología Creativa para la Comunidad* y a sus autores. No se puede usar con fines comerciales y los términos legales de cualquier trabajo derivado deben ser los mismos que se expresan en la presente declaración.
+**Crea, Imagina y Programa: Tecnología Creativa para la Comunidad** es de acceso abierto distribuida bajo los términos de la licencia Creative Commons Reconocimiento-NoComercial-Compartirigual 4.0 Internacional. Se autoriza la reproducción total o parcial de los textos aquí publicados siempre que se cite la fuente con referencia a **Crea, Imagina y Programa: Tecnología Creativa para la Comunidad** y a sus autores. No se puede usar con fines comerciales y los términos legales de cualquier trabajo derivado deben ser los mismos que se expresan en la presente declaración.
 
 # Robótica Competitiva: Diseño, Control y Estrategia
 
 ## Descripción del Taller
 
-Robótica Competitiva: Diseño, Control y Estrategia es un taller especializado orientado al desarrollo de habilidades tecnológicas avanzadas mediante el diseño, construcción y programación de robots preparados para enfrentar retos de competencia educativa.
+**Robótica Competitiva: Diseño, Control y Estrategia** es un taller especializado orientado al desarrollo de habilidades tecnológicas avanzadas mediante el diseño, construcción y programación de robots preparados para enfrentar retos de competencia educativa.
 
 Durante el curso, las y los participantes trabajarán bajo metodologías de aprendizaje basado en retos, integrando conocimientos de mecánica, electrónica y programación para optimizar el rendimiento de sus prototipos. Además, explorarán la toma de decisiones estratégicas, el análisis de reglamentos y la mejora continua como elementos clave del desempeño competitivo.
 
@@ -1360,4 +1342,4 @@ Diana Frine Zamano Macedonio
 Francisco Daniel Díaz Díaz
 
 Reconocimiento-NoComercial-Compartirigual 4.0 Internacional
-Uso básico del celular es de acceso abierto distribuida bajo los términos de la licencia Creative Commons Reconocimiento-NoComercial-Compartirigual 4.0 Internacional. Se autoriza la reproducción total o parcial de los textos aquí publicados siempre que se cite la fuente con referencia a Uso básico del celular y a sus autores. No se puede usar con fines comerciales y los términos legales de cualquier trabajo derivado deben ser los mismos que se expresan en la presente declaración.
+**Robótica Competitiva: Diseño, Control y Estrategia** es de acceso abierto distribuida bajo los términos de la licencia Creative Commons Reconocimiento-NoComercial-Compartirigual 4.0 Internacional. Se autoriza la reproducción total o parcial de los textos aquí publicados siempre que se cite la fuente con referencia a **Robótica Competitiva: Diseño, Control y Estrategia** y a sus autores. No se puede usar con fines comerciales y los términos legales de cualquier trabajo derivado deben ser los mismos que se expresan en la presente declaración.
