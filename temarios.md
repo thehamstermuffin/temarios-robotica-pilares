@@ -1,9 +1,6 @@
-Ingenia con movimiento Robótica
-Creativa con LEGO
+# Ingenia con movimiento Robótica Creativa con LEGO
 
-1
-
-Descripción del Taller
+## Descripción del Taller
 Ingenia con Movimiento: Robótica Creativa con LEGO es un taller formativo
 orientado al desarrollo del pensamiento lógico, la creatividad tecnológica y el trabajo
 colaborativo mediante la construcción y programación de robots educativos.
@@ -16,7 +13,7 @@ propósito social. Más allá del componente técnico, se busca fortalecer la co
 tecnológica, la comunicación entre pares y la apropiación de la robótica como
 herramienta para transformar su entorno.
 
-Información general
+## Información general
 ●​ Nivel: Introducción – Intermedio
 ●​ Duración: 24 horas, distribuidas en sesiones de 2 horas, 2 veces por
 semana (6 semanas).
@@ -25,32 +22,28 @@ semana (6 semanas).
 comunidad interesada en la tecnología y la robótica educativa.
 Categoría
 
-Descripción
+## Descripción
 
-Conocimientos
-previos
+### Conocimientos previos
 
 No indispensables. Se recomienda interés por la tecnología y
 disposición para el aprendizaje práctico.
 
-Habilidades
+### Habilidades
 
- Capacidad de seguir instrucciones secuenciales
- Pensamiento creativo
- Disposición para el trabajo colaborativo
- Interés por resolver retos técnicos
+- Capacidad de seguir instrucciones secuenciales
+- Pensamiento creativo
+- Disposición para el trabajo colaborativo
+- Interés por resolver retos técnicos
 
-2
-
-Objetivo General
-Al finalizar el curso, las y los participantes diseñarán, construirán y programarán un
-robot educativo con tecnología LEGO, aplicando principios básicos de mecánica,
+## Objetivo General
+Al finalizar el curso, las y los participantes diseñarán, construirán y programarán un robot educativo con tecnología LEGO, aplicando principios básicos de mecánica,
 electrónica y programación, mediante actividades prácticas y trabajo colaborativo,
 con el propósito de desarrollar habilidades cognitivas, técnicas y socioemocionales
 que favorezcan el pensamiento computacional y la resolución de problemas en
 contextos comunitarios.
 
-Objetivos particulares
+## Objetivos particulares
 Al finalizar el curso:
 ●​ El participante identificará los componentes principales de un sistema
 robótico mediante la exploración guiada de kits LEGO, con la finalidad de
@@ -78,187 +71,29 @@ Esta flexibilidad permite adaptar el ritmo del taller sin comprometer la compren
 ni la aplicación práctica de los conocimientos.
 Recordemos que lo más importante es alcanzar el objetivo de aprendizaje.
 
-3
 
-Estructura del taller
-Sesiones y
-temas
-
-Subtemas
-
-Resultado del
-aprendizaje
-
-Metodología
-sugerida
-
-Duración
-sugerida
-
-Sesión 1 –
-Encuadre y
-rompehielo
-
-Presentación,
-expectativas, acuerdos
-
-Construirán un ambiente
-colaborativo
-
-Dinámica grupal
-
-2 horas
-
-Sesión 2 –
-¿Qué es un
-robot?
-
-Historia breve,
-aplicaciones
-
-Reconocerán el impacto
-de la robótica
-
-Diálogo +
-demostración.
-
-2 horas
-
-Sesión 3 –
-Exploración
-del kit LEGO
-
-Componentes,
-clasificación
-
-Identificarán piezas y
-funciones
-
-Aprendizaje
-guiado
-
-2 horas
-
-Sesión 4 –
-Principios
-mecánicos
-
-Engranes, palancas
-
-Comprenderán el
-movimiento mecánico
-
-Construcción
-práctica
-
-2 horas
-
-Sesión 5 –
-Introducción a
-motores
-
-Tipos y usos
-
-Controlarán
-movimientos básicos
-
-Práctica técnica
-
-2 horas
-
-Sesión 6 –
-Programación
-visual
-
-Bloques, secuencias
-
-Programarán acciones
-simples
-
-Aprendizaje
-basado en retos
-
-2 horas
-
-Sesión 7 –
-Sensores
-
-Distancia, color, contacto
-
-Responderán a
-estímulos
-
-Experimentación
-
-2 horas
-
-Sesión 8
-–Integración
-mecánica y
-programación
-
-Robot básico
-
-Construirán su primer
-robot funcional
-
-ABP.
-
-2 horas
-
-4
-Sesión 9 –
-Optimización
-del robot
-
-Estabilidad y eficiencia
-
-Iteración técnica
-
-2 horas
-
-Sesión 10 –
-Diseño con
-propósito
-
-Robot para la comunidad
-
-Aplicarán creatividad
-tecnológica
-
-Design thinking
-
-2 horas
-
-Sesión 11 –
-Ajustes finales
-
-Pruebas controladas
-
-Validarán el
-funcionamiento
-
-Testing guiado
-
-2 horas
-
-Sesión 12 –
-Presentación
-comunitaria
-
-Demostración del robot
-
-Comunicarán su
-proyecto
-
-Expo tecnológica
-
-2 horas
-
-Mejorarán su
-prototipo
-
-Material de apoyo:
+## Estructura del taller
+
+Claro, aquí están las tablas transcritas a markdown:
+
+## Tabla 1
+
+| Sesiones y temas                               | Subtemas                             | Resultado del aprendizaje             | Metodología sugerida        | Duración asignada |
+| ------------------------------------------------| --------------------------------------| ---------------------------------------| -----------------------------| -------------------|
+| Sesión 1 – Encuentes y rompehielo              | Presentación, experiencias, acuerdos | Construirán un ambiente colaborativo  | Dinámica grupal             | 2 horas           |
+| Sesión 2 – ¿Qué es un robot?                   | Historia breve, aplicaciones         | Reconocerán el impacto de la robótica | Diálogo + demostración      | 2 horas           |
+| Sesión 3 – Exploración del kit LEGO            | Componentes, clasificación           | Identificarán piezas y funciones      | Aprendizaje guiado          | 2 horas           |
+| Sesión 4 – Principios mecánicos                | Engranes, palancas                   | Comprenderán el movimiento mecánico   | Construcción práctica       | 2 horas           |
+| Sesión 5 – Introducción a motores              | Tipos y usos                         | Controlarán movimientos básicos       | Práctica técnica            | 2 horas           |
+| Sesión 6 – Programación visual                 | Bloques, secuencias                  | Programarán acciones simples          | Aprendizaje basado en retos | 2 horas           |
+| Sesión 7 – Sensores                            | Distancia, color, contacto           | Responderán a estímulos               | Experimentación             | 2 horas           |
+| Sesión 8 – Integración mecánica y programación | Robot básico                         | Construirán su primer robot funcional | ABP                         | 2 horas           |
+| Sesión 9 – Optimización del robot              | Estabilidad y eficiencia             | Mejorarán su prototipo                | Iteración técnica           | 2 horas           |
+| Sesión 10 – Diseño con propósito               | Robot para la comunidad              | Aplicarán creatividad tecnológica     | Design thinking             | 2 horas           |
+| Sesión 11 – Ajustes finales                    | Pruebas controladas                  | Validarán el funcionamiento           | Testing guiado              | 2 horas           |
+| Sesión 12 – Presentación comunitaria           | Demostración del robot               | Comunicarán su proyecto               | Expo tecnológica            | 2 horas           |
+
+## Material de apoyo:
 ●​ Kits de robótica LEGO (Spike / Mindstorms o equivalente)
 ●​ Computadoras o tabletas con software de programación
 ●​ Espacio con energía eléctrica
@@ -270,17 +105,16 @@ Material complementario:
 ●​ Retos impresos
 ●​ Videos demostrativos
 
-5
 
-Evaluación
+## Evaluación
 La evaluación se concibe como un proceso de acompañamiento centrado en la
 experiencia del participante y la aplicación práctica de sus aprendizajes.
-Principios:
+### Principios:
 ●​ No se prioriza la calificación numérica.
 ●​ El participante reflexiona sobre su propio avance.
 ●​ El facilitador brinda retroalimentación constructiva.
 ●​ La evaluación es práctica y observable.
-Evidencias de aprendizaje:
+### Evidencias de aprendizaje:
 ●​ Participación activa
 ●​ Desarrollo del robot
 ●​ Resolución de retos
@@ -289,87 +123,50 @@ Infancias , Checklist
 Jóvenes, Reporte de proyecto
 Adultos , Checklist
 
-Checklist final. Ingenia con Movimiento
+## Checklist final. Ingenia con Movimiento
 
-6
+| Ítem | Habilidad adquirida                       | Logrado (✓) | Observaciones / Reflexiones personales |
+| ------| -------------------------------------------| -------------| ----------------------------------------|
+| 1    | Identifico los componentes de un robot    |             |                                        |
+| 2    | Construyo mecanismos funcionales          |             |                                        |
+| 3    | Programo movimientos básicos              |             |                                        |
+| 4    | Integro sensores                          |             |                                        |
+| 5    | Resuelvo fallas simples                   |             |                                        |
+| 6    | Trabajo colaborativamente                 |             |                                        |
+| 7    | Optimizo el desempeño del robot           |             |                                        |
+| 8    | Explico el funcionamiento de mi prototipo |             |                                        |
+| 9    | Aplico la robótica a un problema real     |             |                                        |
+| 10   | Presento mi proyecto con claridad         |             |                                        |
 
-Ítem
+## Referencias
 
-Habilidad adquirida
+- Eguchi, A. (2014). Robotics as a learning tool for educational transformation. Proceedings of the 4th International Workshop Teaching Robotics.
+- Resnick, M. (2017). Lifelong kindergarten: Cultivating creativity through projects, passion, peers, and play. MIT Press.
+- Bers, M. U. (2018). Coding as a playground: Programming and computational thinking in the early childhood classroom. Routledge.
+- LEGO Education. (2020). LEGO® Education SPIKE™ Prime Set Teacher Guide. LEGO Education.
 
-1
-
-Identifico los componentes de un robot
-
-2
-
-Construyo mecanismos funcionales
-
-3
-
-Programo movimientos básicos
-
-4
-
-Integro sensores
-
-5
-
-Resuelvo fallas simples
-
-6
-
-Trabajo colaborativamente
-
-7
-
-Optimizo el desempeño del robot
-
-8
-
-Explico el funcionamiento de mi prototipo
-
-9
-
-Aplico la robótica a un problema real
-
-10
-
-Presento mi proyecto con claridad
-
-Logrado
-(✓)
-
-Observaciones /
-Reflexiones personales
-
-7
-
-Referencias
-
-Eguchi, A. (2014). Robotics as a learning tool for educational transformation. Proceedings of
-the 4th International Workshop Teaching Robotics.
-Resnick, M. (2017). Lifelong kindergarten: Cultivating creativity through projects, passion,
-peers, and play. MIT Press.
-Bers, M. U. (2018). Coding as a playground: Programming and computational thinking in the
-early childhood classroom. Routledge.
-LEGO Education. (2020). LEGO® Education SPIKE™ Prime Set Teacher Guide. LEGO
-Education.
-
-8
 Subsistema de Educación Comunitaria "PILARES"
+
 Calle Barranca del Muerto 24, Colonia Guadalupe Inn
 C.P. 01020, Alcaldía Álvaro Obregón. Ciudad de México
+
 Subsistema de Educación Comunitaria "PILARES"
 Dirección de Educación Participativa y Comunitaria
+
 Coordinación General del Subsistema de Educación Comunitaria "PILARES"
 Javier Ariel Hidalgo Ponce.
+
 Dirección de Educación Participativa y Comunitaria
 Luz del Alba Riande Méndez
+
 Autores:
+
 Neftali Elorza Lopez
+
 Maria Isabel Cuevas Avila
+
 Diana Frine Zamano Macedonio
+
 Francisco Daniel Díaz Díaz
 
 Reconocimiento-NoComercial-Compartirigual 4.0 Internacional
@@ -380,10 +177,7 @@ referencia a Uso básico del celular y a sus autores. No se puede usar con fines
 los términos legales de cualquier trabajo derivado deben ser los mismos que se expresan en la
 presente declaración.
 
-Crea y Conecta: Electrónica y
-Control con Arduino
-
-1
+# Crea y Conecta: Electrónica y Control con Arduino
 
 Descripción del Taller
 Crea y Conecta: Electrónica y Control con Arduino es un taller orientado al
@@ -429,7 +223,6 @@ y actuadores para automatizar procesos, con el propósito de desarrollar habilid
 técnicas, pensamiento computacional y capacidades de resolución de problemas
 aplicables en contextos comunitarios y tecnológicos.
 
-2
 
 Objetivos particulares
 Al finalizar el curso:
@@ -456,7 +249,6 @@ Esta flexibilidad favorece la adaptación pedagógica sin comprometer la aplicac
 práctica de los conocimientos.
 Recordemos que lo más importante es alcanzar el objetivo de aprendizaje.
 
-3
 
 Estructura del taller
 Sesiones y
@@ -607,7 +399,6 @@ Design thinking
 
 2 horas
 
-4
 Sesión 11 –
 Pruebas y
 depuración
@@ -649,7 +440,6 @@ Material complementario:
 ●​ Guías impresas
 ●​ Videos tutoriales
 
-5
 
 Evaluación
 La evaluación se concibe como un proceso de acompañamiento enfocado en la
@@ -668,7 +458,6 @@ Infancias, Checklist
 Jóvenes, Reporte de proyecto
 Adultos, Checklist
 
-6
 
 Checklist final. Crea y Conecta
 Ítem
@@ -729,7 +518,6 @@ McGraw-Hill Education.
  Margolis, M. (2011). Arduino cookbook. O’Reilly Media.
 ​
 
-7
 Subsistema de Educación Comunitaria "PILARES"
 Calle Barranca del Muerto 24, Colonia Guadalupe Inn
 C.P. 01020, Alcaldía Álvaro Obregón. Ciudad de México
@@ -756,7 +544,6 @@ presente declaración.
 Mueve tu Idea: Robótica Móvil e
 Inteligente
 
-1
 
 Descripción del Taller
 Mueve tu Idea: Robótica Móvil e Inteligente es un taller diseñado para introducir a
@@ -797,7 +584,6 @@ Habilidades
  Trabajo en equipo
  Interés por la ingeniería aplicada
 
-2
 
 Objetivo General
 Al finalizar el curso, las y los participantes diseñarán, construirán y programarán un
@@ -832,7 +618,6 @@ Esta flexibilidad permite adaptar el ritmo sin comprometer la comprensión ni la
 aplicación práctica.
 Recordemos que lo más importante es alcanzar el objetivo de aprendizaje.
 
-3
 
 Estructura del taller
 Sesiones y
@@ -972,7 +757,6 @@ Retos técnicos
 
 2 horas
 
-4
 Sesión 10 –
 Optimización
 
@@ -1029,7 +813,6 @@ Material complementario:
 
 Evaluación
 
-5
 
 La evaluación se concibe como un proceso de acompañamiento enfocado en la
 aplicación práctica del aprendizaje.
@@ -1047,7 +830,6 @@ Infancias , Checklist
 Jóvenes, Reporte de proyecto
 Adultos, Checklist
 
-6
 
 Checklist final. Mueve Tu Idea
 Ítem
@@ -1100,7 +882,6 @@ Logrado
 Observaciones /
 Reflexiones personales
 
-7
 
 Referencias
 ●​ Siegwart, R., Nourbakhsh, I. R., & Scaramuzza, D. (2011). Introduction to
@@ -1110,7 +891,6 @@ autonomous mobile robots (2nd ed.). MIT Press.
 ●​ Jones, J. L., Flynn, A. M., & Seiger, B. A. (1999). Mobile robots: Inspiration to
 implementation. A K Peters.
 
-8
 Subsistema de Educación Comunitaria "PILARES"
 Calle Barranca del Muerto 24, Colonia Guadalupe Inn
 C.P. 01020, Alcaldía Álvaro Obregón. Ciudad de México
@@ -1137,7 +917,6 @@ presente declaración.
 Conecta tu Mundo: IoT y
 Automatización
 
-1
 
 Descripción del Taller
 Conecta tu Mundo: IoT y Automatización es un taller formativo orientado al
@@ -1178,7 +957,6 @@ Habilidades
  Trabajo colaborativo
  Disposición para el aprendizaje práctico
 
-2
 
 Objetivo General
 Al finalizar el curso, las y los participantes diseñarán e implementarán un sistema
@@ -1213,7 +991,6 @@ Esta flexibilidad favorece la adaptación pedagógica sin comprometer la aplicac
 práctica.
 Recordemos que lo más importante es alcanzar el objetivo de aprendizaje.
 
-3
 
 Estructura del taller
 Sesiones y
@@ -1359,7 +1136,6 @@ Iteración técnica
 
 2 horas
 
-4
 Sesión 11 –
 Pruebas y
 optimización
@@ -1402,7 +1178,6 @@ Material complementario:
 ●​ Guías visuales
 ●​ Videos demostrativos
 
-5
 
 Evaluación
 La evaluación se concibe como un proceso de acompañamiento enfocado en la
@@ -1421,7 +1196,6 @@ Infancias , Checklist
 Jóvenes, Reporte de proyecto
 Adultos, Checklist
 
-6
 
 Checklist final. Conecta Tu Mundo
 Ítem
@@ -1474,7 +1248,6 @@ Logrado
 Observaciones /
 Reflexiones personales
 
-7
 
 Referencias
  Ashton, K. (2009). That ‘Internet of Things’ thing. RFID Journal.
@@ -1486,7 +1259,6 @@ environments. River Publishers.
 Media.
 ​
 
-8
 Subsistema de Educación Comunitaria "PILARES"
 Calle Barranca del Muerto 24, Colonia Guadalupe Inn
 C.P. 01020, Alcaldía Álvaro Obregón. Ciudad de México
@@ -1513,7 +1285,6 @@ presente declaración.
 Domótica Comunitaria: Tecnología
 para el Hogar Inteligente
 
-1
 
 Descripción del Taller
 Domótica Comunitaria: Tecnología para el Hogar Inteligente es un taller
@@ -1555,7 +1326,6 @@ Habilidades
  Trabajo colaborativo
  Disposición para el aprendizaje práctico
 
-2
 
 Objetivo General
 Al finalizar el curso, las y los participantes diseñarán e implementarán un sistema
@@ -1590,7 +1360,6 @@ Esta flexibilidad favorece la adaptación pedagógica sin comprometer la aplicac
 práctica.
 Recordemos que lo más importante es alcanzar el objetivo de aprendizaje.
 
-3
 
 Estructura del taller
 Sesiones y
@@ -1743,7 +1512,6 @@ Iteración técnica
 
 2 horas
 
-4
 Sesión 11 –
 Pruebas y
 optimización
@@ -1786,7 +1554,6 @@ Material complementario:
 ●​ Videos demostrativos
 ●​ Casos de uso reales
 
-5
 
 Evaluación
 La evaluación se concibe como un proceso de acompañamiento enfocado en la
@@ -1806,7 +1573,6 @@ Infancias , Checklist
 Jóvenes, Reporte de proyecto
 Adultos, Checklist
 
-6
 
 Checklist final. Domótica Comunitaria
 Ítem
@@ -1869,7 +1635,6 @@ Biomedicine, 91(1), 55–81.
  Balta-Ozkan, N., Davidson, R., Bicket, M., & Whitmarsh, L. (2013). Social
 barriers to the adoption of smart homes. Energy Policy, 63, 363–374.
 
-7
 Subsistema de Educación Comunitaria "PILARES"
 Calle Barranca del Muerto 24, Colonia Guadalupe Inn
 C.P. 01020, Alcaldía Álvaro Obregón. Ciudad de México
@@ -1897,7 +1662,6 @@ presente declaración.
 Tecnología Creativa para la
 Comunidad
 
-1
 
 Descripción del Taller
 Crea, Imagina y Programa: Tecnología Creativa para la Comunidad es un taller
@@ -1938,7 +1702,6 @@ Habilidades
  Trabajo colaborativo
  Apertura a la experimentación
 
-2
 
 Objetivo General
 Al finalizar el curso, las y los participantes diseñarán y desarrollarán un proyecto
@@ -1972,7 +1735,6 @@ Esta flexibilidad permite adaptar el ritmo del curso sin comprometer la comprens
 ni la aplicación práctica.
 Recordemos que lo más importante es alcanzar el objetivo de aprendizaje.
 
-3
 
 Estructura del taller
 Sesiones y
@@ -2083,7 +1845,6 @@ ABP
 
 2 horas
 
-4
 Sesión 8 –
 Integración
 tecnológica
@@ -2164,7 +1925,6 @@ Material complementario:
 ●​ Videos demostrativos
 ●​ Ejemplos de proyectos
 
-5
 
 Evaluación
 La evaluación se concibe como un proceso de acompañamiento centrado en la
@@ -2184,7 +1944,6 @@ Infancias , Checklist
 Jóvenes, Reporte de proyecto
 Adultos, Checklist
 
-6
 
 Checklist final. Uso básico del celular
 Ítem
@@ -2237,7 +1996,6 @@ Logrado
 Observaciones /
 Reflexiones personales
 
-7
 
 Referencias
  Wing, J. M. (2006). Computational thinking. Communications of the ACM, 49(3),
@@ -2247,7 +2005,6 @@ Referencias
  Kelley, T., & Kelley, D. (2013). Creative confidence. Crown Business.
 ​
 
-8
 Subsistema de Educación Comunitaria "PILARES"
 Calle Barranca del Muerto 24, Colonia Guadalupe Inn
 C.P. 01020, Alcaldía Álvaro Obregón. Ciudad de México
@@ -2274,7 +2031,6 @@ presente declaración.
 Robótica Competitiva: Diseño,
 Control y Estrategia
 
-1
 
 Descripción del Taller
 Robótica Competitiva: Diseño, Control y Estrategia es un taller especializado
@@ -2318,7 +2074,6 @@ Habilidades
  Perseverancia ante retos técnicos
  Interés por la ingeniería aplicada
 
-2
 
 Objetivo General
 Al finalizar el curso, las y los participantes diseñarán, construirán y optimizarán un
@@ -2354,7 +2109,6 @@ Esta flexibilidad favorece la adaptación pedagógica sin comprometer la aplicac
 práctica.
 Recordemos que lo más importante es alcanzar el objetivo de aprendizaje.
 
-3
 
 Estructura del taller
 Sesiones y
@@ -2497,7 +2251,6 @@ comparativas
 
 2 horas
 
-4
 Sesión 10 –
 Estrategia de
 competencia
@@ -2554,7 +2307,6 @@ Material complementario:
 ●​ Videos técnicos
 ●​ Simuladores
 
-5
 
 Evaluación
 La evaluación se concibe como un proceso de acompañamiento enfocado en la
@@ -2574,7 +2326,6 @@ Infancias , Checklist
 Jóvenes, Reporte de proyecto
 Adultos, Checklist
 
-6
 
 Checklist final. Robótica Competitiva
 Ítem
@@ -2627,7 +2378,6 @@ Logrado
 Observaciones /
 Reflexiones personales
 
-7
 
 Referencias
  Mataric, M. J. (2007). The robotics primer. MIT Press.
@@ -2637,7 +2387,6 @@ Pearson.
  FIRST Robotics Competition. (2024). Game & season materials. FIRST.
 ​
 
-8
 Subsistema de Educación Comunitaria "PILARES"
 Calle Barranca del Muerto 24, Colonia Guadalupe Inn
 C.P. 01020, Alcaldía Álvaro Obregón. Ciudad de México
