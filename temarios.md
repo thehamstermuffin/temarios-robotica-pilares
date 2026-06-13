@@ -1,28 +1,22 @@
 # Ingenia con movimiento Robótica Creativa con LEGO
 
 ## Descripción del Taller
-Ingenia con Movimiento: Robótica Creativa con LEGO es un taller formativo
-orientado al desarrollo del pensamiento lógico, la creatividad tecnológica y el trabajo
-colaborativo mediante la construcción y programación de robots educativos.
-Durante el taller, las y los participantes explorarán los fundamentos de la robótica
-desde una perspectiva práctica, diseñando prototipos funcionales capaces de
-ejecutar movimientos y responder a estímulos del entorno.
-El curso prioriza el aprendizaje activo y comunitario, promoviendo la
-experimentación, la resolución de problemas y la generación de proyectos con
-propósito social. Más allá del componente técnico, se busca fortalecer la confianza
-tecnológica, la comunicación entre pares y la apropiación de la robótica como
-herramienta para transformar su entorno.
+Ingenia con Movimiento: Robótica Creativa con LEGO es un taller formativo orientado al desarrollo del pensamiento lógico, la creatividad tecnológica y el trabajo colaborativo mediante la construcción y programación de robots educativos.
+
+Durante el taller, las y los participantes explorarán los fundamentos de la robótica desde una perspectiva práctica, diseñando prototipos funcionales capaces de ejecutar movimientos y responder a estímulos del entorno.
+
+El curso prioriza el aprendizaje activo y comunitario, promoviendo la experimentación, la resolución de problemas y la generación de proyectos con propósito social. Más allá del componente técnico, se busca fortalecer la confianza tecnológica, la comunicación entre pares y la apropiación de la robótica como herramienta para transformar su entorno.
 
 ## Información general
-●​ Nivel: Introducción – Intermedio
-●​ Duración: 24 horas, distribuidas en sesiones de 2 horas, 2 veces por
-semana (6 semanas).
-●​ Perfil de los participantes:
-○​ Infancias, personas jóvenes, adultas o cualquier integrante de la
-comunidad interesada en la tecnología y la robótica educativa.
-Categoría
 
-## Descripción
+- Nivel: Introducción – Intermedio
+
+- Duración: 24 horas, distribuidas en sesiones de 2 horas, 2 veces por
+semana (6 semanas).
+
+- Perfil de los participantes:
+    - Infancias, personas jóvenes, adultas o cualquier integrante de la comunidad interesada en la tecnología y la robótica educativa.
+
 
 ### Conocimientos previos
 
@@ -45,38 +39,38 @@ contextos comunitarios.
 
 ## Objetivos particulares
 Al finalizar el curso:
-●​ El participante identificará los componentes principales de un sistema
+
+- El participante identificará los componentes principales de un sistema
 robótico mediante la exploración guiada de kits LEGO, con la finalidad de
 comprender su funcionamiento básico.
-●​ El participante construirá mecanismos funcionales aplicando principios
+
+- El participante construirá mecanismos funcionales aplicando principios
 elementales de ingeniería, con el objetivo de desarrollar habilidades de
 diseño y prototipado.
-●​ El participante programará secuencias de movimiento utilizando entornos de
+
+- El participante programará secuencias de movimiento utilizando entornos de
 programación visual, con la finalidad de generar comportamientos autónomos
 en su robot.
-●​ El participante integrará sensores y actuadores en un prototipo robótico
+
+- El participante integrará sensores y actuadores en un prototipo robótico
 mediante retos técnicos progresivos, con el propósito de fortalecer su
 pensamiento lógico y capacidad de resolución de problemas.
-●​ El participante colaborará en el desarrollo de un proyecto comunitario,
+
+- El participante colaborará en el desarrollo de un proyecto comunitario,
 dialogando ideas y soluciones con sus compañeros para fomentar el
 aprendizaje colectivo.
 
-Duración
-La duración del taller se establece en 24 horas como referencia para el desarrollo
-completo de los contenidos y la construcción de un proyecto robótico funcional.
-No obstante, el facilitador podrá ajustar la duración —por ejemplo, a 20 horas— si,
-con base en la evaluación diagnóstica o el avance del grupo, se considera que los
-participantes han alcanzado los objetivos de aprendizaje.
-Esta flexibilidad permite adaptar el ritmo del taller sin comprometer la comprensión
-ni la aplicación práctica de los conocimientos.
+### Duración
+La duración del taller se establece en 24 horas como referencia para el desarrollo completo de los contenidos y la construcción de un proyecto robótico funcional.
+
+No obstante, el facilitador podrá ajustar la duración —por ejemplo, a 20 horas— si, con base en la evaluación diagnóstica o el avance del grupo, se considera que los participantes han alcanzado los objetivos de aprendizaje.
+
+Esta flexibilidad permite adaptar el ritmo del taller sin comprometer la comprensión ni la aplicación práctica de los conocimientos.
+
 Recordemos que lo más importante es alcanzar el objetivo de aprendizaje.
 
 
 ## Estructura del taller
-
-Claro, aquí están las tablas transcritas a markdown:
-
-## Tabla 1
 
 | Sesiones y temas                               | Subtemas                             | Resultado del aprendizaje             | Metodología sugerida        | Duración asignada |
 | ------------------------------------------------| --------------------------------------| ---------------------------------------| -----------------------------| -------------------|
@@ -94,31 +88,48 @@ Claro, aquí están las tablas transcritas a markdown:
 | Sesión 12 – Presentación comunitaria           | Demostración del robot               | Comunicarán su proyecto               | Expo tecnológica            | 2 horas           |
 
 ## Material de apoyo:
-●​ Kits de robótica LEGO (Spike / Mindstorms o equivalente)
-●​ Computadoras o tabletas con software de programación
-●​ Espacio con energía eléctrica
-●​ Pistas de prueba
-●​ Proyector o pantalla
-●​ Bitácora del participante
+
+- Kits de robótica LEGO (Spike / Mindstorms o equivalente)
+
+- Computadoras o tabletas con software de programación
+
+- Espacio con energía eléctrica
+
+- Pistas de prueba
+
+- Proyector o pantalla
+
+- Bitácora del participante
 Material complementario:
-●​ Guías visuales
-●​ Retos impresos
-●​ Videos demostrativos
+
+- Guías visuales
+
+- Retos impresos
+
+- Videos demostrativos
 
 
 ## Evaluación
 La evaluación se concibe como un proceso de acompañamiento centrado en la
 experiencia del participante y la aplicación práctica de sus aprendizajes.
 ### Principios:
-●​ No se prioriza la calificación numérica.
-●​ El participante reflexiona sobre su propio avance.
-●​ El facilitador brinda retroalimentación constructiva.
-●​ La evaluación es práctica y observable.
+
+- No se prioriza la calificación numérica.
+
+- El participante reflexiona sobre su propio avance.
+
+- El facilitador brinda retroalimentación constructiva.
+
+- La evaluación es práctica y observable.
 ### Evidencias de aprendizaje:
-●​ Participación activa
-●​ Desarrollo del robot
-●​ Resolución de retos
-●​ Presentación del proyecto
+
+- Participación activa
+
+- Desarrollo del robot
+
+- Resolución de retos
+
+- Presentación del proyecto
 Infancias , Checklist
 Jóvenes, Reporte de proyecto
 Adultos , Checklist
@@ -192,11 +203,14 @@ Más allá del aspecto técnico, se fomenta el trabajo colaborativo y la apropia
 la tecnología como herramienta para la innovación comunitaria.
 
 Información general
-●​ Nivel: Introducción – Intermedio
-●​ Duración: 24 horas, distribuidas en sesiones de 2 horas, 2 veces por
+
+- Nivel: Introducción – Intermedio
+
+- Duración: 24 horas, distribuidas en sesiones de 2 horas, 2 veces por
 semana (6 semanas).
-●​ Perfil de los participantes:
-○​ Infancias, personas jóvenes y adultas interesadas en la tecnología, la
+
+- Perfil de los participantes:
+    - Infancias, personas jóvenes y adultas interesadas en la tecnología, la
 electrónica o la robótica, así como integrantes de la comunidad que
 busquen desarrollar habilidades técnicas aplicables.
 Categoría
@@ -226,16 +240,21 @@ aplicables en contextos comunitarios y tecnológicos.
 
 Objetivos particulares
 Al finalizar el curso:
-●​ El participante identificará los fundamentos de la electricidad y la electrónica
+
+- El participante identificará los fundamentos de la electricidad y la electrónica
 mediante la construcción de circuitos básicos, con la finalidad de comprender
 el flujo de energía y su aplicación práctica.
-●​ El participante interpretará diagramas electrónicos sencillos para conectar
+
+- El participante interpretará diagramas electrónicos sencillos para conectar
 correctamente componentes, fortaleciendo su razonamiento técnico.
-●​ El participante programará microcontroladores utilizando el entorno Arduino
+
+- El participante programará microcontroladores utilizando el entorno Arduino
 IDE, desarrollando estructuras lógicas para el control de dispositivos.
-●​ El participante integrará sensores y actuadores en prototipos funcionales, con
+
+- El participante integrará sensores y actuadores en prototipos funcionales, con
 el propósito de automatizar tareas simples.
-●​ El participante desarrollará un proyecto tecnológico colaborativo que
+
+- El participante desarrollará un proyecto tecnológico colaborativo que
 responda a una necesidad cotidiana, promoviendo la innovación comunitaria.
 
 Duración
@@ -426,34 +445,54 @@ Expo tecnológica
 2 horas
 
 Material de apoyo:
-●​ Kits Arduino (UNO o equivalente)
-●​ Protoboards
-●​ Resistencias, LEDs, botones
-●​ Sensores (ultrasónico, temperatura, luz, etc.)
-●​ Motores o servomotores
-●​ Cables jumper
-●​ Computadoras con Arduino IDE
-●​ Fuente de alimentación o baterías
-●​ Bitácora del participante
+
+- Kits Arduino (UNO o equivalente)
+
+- Protoboards
+
+- Resistencias, LEDs, botones
+
+- Sensores (ultrasónico, temperatura, luz, etc.)
+
+- Motores o servomotores
+
+- Cables jumper
+
+- Computadoras con Arduino IDE
+
+- Fuente de alimentación o baterías
+
+- Bitácora del participante
 Material complementario:
-●​ Simuladores electrónicos
-●​ Guías impresas
-●​ Videos tutoriales
+
+- Simuladores electrónicos
+
+- Guías impresas
+
+- Videos tutoriales
 
 
 Evaluación
 La evaluación se concibe como un proceso de acompañamiento enfocado en la
 aplicación práctica del conocimiento.
 Principios:
-●​ El participante es protagonista de su aprendizaje.
-●​ El facilitador guía y retroalimenta sin emitir juicios punitivos.
-●​ Se prioriza la demostración de habilidades sobre la memorización.
+
+- El participante es protagonista de su aprendizaje.
+
+- El facilitador guía y retroalimenta sin emitir juicios punitivos.
+
+- Se prioriza la demostración de habilidades sobre la memorización.
 Evidencias:
-●​ Construcción de circuitos
-●​ Programación funcional
-●​ Integración de sensores
-●​ Desarrollo del proyecto
-●​ Participación colaborativa
+
+- Construcción de circuitos
+
+- Programación funcional
+
+- Integración de sensores
+
+- Desarrollo del proyecto
+
+- Participación colaborativa
 Infancias, Checklist
 Jóvenes, Reporte de proyecto
 Adultos, Checklist
@@ -557,11 +596,14 @@ colaborativo, promoviendo la robótica móvil como una herramienta para resolver
 retos cotidianos y fortalecer la innovación comunitaria.
 
 Información general
-●​ Nivel: Intermedio
-●​ Duración: 24 horas, distribuidas en sesiones de 2 horas, 2 veces por
+
+- Nivel: Intermedio
+
+- Duración: 24 horas, distribuidas en sesiones de 2 horas, 2 veces por
 semana (6 semanas).
-●​ Perfil de los participantes:
-○​ Infancias, personas jóvenes y adultas interesadas en la robótica, la
+
+- Perfil de los participantes:
+    - Infancias, personas jóvenes y adultas interesadas en la robótica, la
 tecnología o la automatización, especialmente quienes deseen
 avanzar hacia proyectos más complejos dentro del ecosistema
 tecnológico comunitario.
@@ -594,17 +636,23 @@ innovación aplicables en contextos comunitarios y tecnológicos.
 
 Objetivos particulares
 Al finalizar el curso:
-●​ El participante identificará los componentes esenciales de un robot móvil,
+
+- El participante identificará los componentes esenciales de un robot móvil,
 comprendiendo su función dentro del sistema.
-●​ El participante aplicará principios básicos de mecánica y locomoción para
+
+- El participante aplicará principios básicos de mecánica y locomoción para
 construir estructuras móviles estables.
-●​ El participante programará sistemas de control que permitan regular la
+
+- El participante programará sistemas de control que permitan regular la
 velocidad y dirección del robot.
-●​ El participante integrará sensores para habilitar comportamientos autónomos,
+
+- El participante integrará sensores para habilitar comportamientos autónomos,
 fortaleciendo su capacidad de análisis y resolución de problemas.
-●​ El participante desarrollará un robot funcional que atienda un reto técnico,
+
+- El participante desarrollará un robot funcional que atienda un reto técnico,
 promoviendo el aprendizaje basado en proyectos.
-●​ El participante comunicará el proceso de diseño y funcionamiento de su
+
+- El participante comunicará el proceso de diseño y funcionamiento de su
 prototipo, fomentando la apropiación tecnológica.
 
 Duración
@@ -795,21 +843,35 @@ amistosa
 2 horas
 
 Material de apoyo:
-●​ Kits de robótica móvil o Arduino
-●​ Chasis para robot
-●​ Motores DC o servomotores
-●​ Drivers de motor
-●​ Sensores ultrasónicos e infrarrojos
-●​ Baterías recargables
-●​ Cables jumper
-●​ Protoboard
-●​ Computadoras con software de programación
-●​ Pistas de prueba
-●​ Bitácora del participante
+
+- Kits de robótica móvil o Arduino
+
+- Chasis para robot
+
+- Motores DC o servomotores
+
+- Drivers de motor
+
+- Sensores ultrasónicos e infrarrojos
+
+- Baterías recargables
+
+- Cables jumper
+
+- Protoboard
+
+- Computadoras con software de programación
+
+- Pistas de prueba
+
+- Bitácora del participante
 Material complementario:
-●​ Simuladores
-●​ Retos impresos
-●​ Videos técnicos
+
+- Simuladores
+
+- Retos impresos
+
+- Videos técnicos
 
 Evaluación
 
@@ -817,15 +879,23 @@ Evaluación
 La evaluación se concibe como un proceso de acompañamiento enfocado en la
 aplicación práctica del aprendizaje.
 Principios:
-●​ El participante es protagonista del proceso formativo.
-●​ El facilitador guía, observa y retroalimenta.
-●​ Se prioriza la demostración funcional sobre la teoría.
+
+- El participante es protagonista del proceso formativo.
+
+- El facilitador guía, observa y retroalimenta.
+
+- Se prioriza la demostración funcional sobre la teoría.
 Evidencias:
-●​ Construcción del robot
-●​ Integración de sensores
-●​ Programación funcional
-●​ Resolución de retos
-●​ Presentación del proyecto
+
+- Construcción del robot
+
+- Integración de sensores
+
+- Programación funcional
+
+- Resolución de retos
+
+- Presentación del proyecto
 Infancias , Checklist
 Jóvenes, Reporte de proyecto
 Adultos, Checklist
@@ -884,11 +954,14 @@ Reflexiones personales
 
 
 Referencias
-●​ Siegwart, R., Nourbakhsh, I. R., & Scaramuzza, D. (2011). Introduction to
+
+- Siegwart, R., Nourbakhsh, I. R., & Scaramuzza, D. (2011). Introduction to
 autonomous mobile robots (2nd ed.). MIT Press.
-●​ Dudek, G., & Jenkin, M. (2010). Computational principles of mobile robotics
+
+- Dudek, G., & Jenkin, M. (2010). Computational principles of mobile robotics
 (2nd ed.). Cambridge University Press.
-●​ Jones, J. L., Flynn, A. M., & Seiger, B. A. (1999). Mobile robots: Inspiration to
+
+- Jones, J. L., Flynn, A. M., & Seiger, B. A. (1999). Mobile robots: Inspiration to
 implementation. A K Peters.
 
 Subsistema de Educación Comunitaria "PILARES"
@@ -931,11 +1004,14 @@ colaborativo, promoviendo la apropiación de la tecnología como una herramienta
 para mejorar la vida comunitaria y fomentar la innovación social.
 
 Información general
-●​ Nivel: Intermedio – Intermedio avanzado
-●​ Duración: 24 horas, distribuidas en sesiones de 2 horas, 2 veces por
+
+- Nivel: Intermedio – Intermedio avanzado
+
+- Duración: 24 horas, distribuidas en sesiones de 2 horas, 2 veces por
 semana (6 semanas).
-●​ Perfil de los participantes:
-○​ Infancias, personas jóvenes y adultas interesadas en la tecnología, la
+
+- Perfil de los participantes:
+    - Infancias, personas jóvenes y adultas interesadas en la tecnología, la
 automatización o la robótica, especialmente quienes busquen
 desarrollar soluciones inteligentes aplicables en su vida cotidiana o
 comunidad.
@@ -967,17 +1043,23 @@ fomentar soluciones innovadoras con impacto comunitario.
 
 Objetivos particulares
 Al finalizar el curso:
-●​ El participante comprenderá los fundamentos del Internet de las Cosas y su
+
+- El participante comprenderá los fundamentos del Internet de las Cosas y su
 impacto en la vida cotidiana.
-●​ El participante identificará los componentes de un sistema IoT, reconociendo
+
+- El participante identificará los componentes de un sistema IoT, reconociendo
 la relación entre hardware, software y conectividad.
-●​ El participante configurará dispositivos para enviar y recibir datos,
+
+- El participante configurará dispositivos para enviar y recibir datos,
 fortaleciendo su comprensión de la comunicación digital.
-●​ El participante diseñará sistemas automatizados que respondan a
+
+- El participante diseñará sistemas automatizados que respondan a
 condiciones específicas mediante sensores.
-●​ El participante analizará la importancia del uso responsable de los datos y la
+
+- El participante analizará la importancia del uso responsable de los datos y la
 seguridad digital.
-●​ El participante desarrollará un proyecto funcional orientado a resolver una
+
+- El participante desarrollará un proyecto funcional orientado a resolver una
 necesidad real del entorno.
 
 Duración
@@ -1164,34 +1246,54 @@ Expo comunitaria
 2 horas
 
 Material de apoyo:
-●​ Placas de desarrollo (ESP32, Arduino IoT o equivalente)
-●​ Sensores (temperatura, humedad, luz, movimiento, etc.)
-●​ Módulos de comunicación WiFi/Bluetooth
-●​ Protoboard y cables jumper
-●​ Actuadores (relés, LEDs, buzzers)
-●​ Computadoras con software de programación
-●​ Plataforma IoT (Blynk, ThingSpeak o similar)
-●​ Router o red local
-●​ Bitácora del participante
+
+- Placas de desarrollo (ESP32, Arduino IoT o equivalente)
+
+- Sensores (temperatura, humedad, luz, movimiento, etc.)
+
+- Módulos de comunicación WiFi/Bluetooth
+
+- Protoboard y cables jumper
+
+- Actuadores (relés, LEDs, buzzers)
+
+- Computadoras con software de programación
+
+- Plataforma IoT (Blynk, ThingSpeak o similar)
+
+- Router o red local
+
+- Bitácora del participante
 Material complementario:
-●​ Simuladores
-●​ Guías visuales
-●​ Videos demostrativos
+
+- Simuladores
+
+- Guías visuales
+
+- Videos demostrativos
 
 
 Evaluación
 La evaluación se concibe como un proceso de acompañamiento enfocado en la
 aplicación práctica del conocimiento.
 Principios:
-●​ El participante es protagonista de su aprendizaje.
-●​ El facilitador guía y retroalimenta sin juicios punitivos.
-●​ Se prioriza la funcionalidad del proyecto sobre la memorización.
+
+- El participante es protagonista de su aprendizaje.
+
+- El facilitador guía y retroalimenta sin juicios punitivos.
+
+- Se prioriza la funcionalidad del proyecto sobre la memorización.
 Evidencias:
-●​ Configuración de dispositivos
-●​ Integración de sensores
-●​ Automatización funcional
-●​ Visualización de datos
-●​ Presentación del proyecto
+
+- Configuración de dispositivos
+
+- Integración de sensores
+
+- Automatización funcional
+
+- Visualización de datos
+
+- Presentación del proyecto
 Infancias , Checklist
 Jóvenes, Reporte de proyecto
 Adultos, Checklist
@@ -1301,11 +1403,14 @@ domótica como una herramienta accesible para fortalecer el bienestar comunitari
 contribuir a la construcción de entornos más inteligentes y sostenibles.
 
 Información general
-●​ Nivel: Intermedio
-●​ Duración: 24 horas, distribuidas en sesiones de 2 horas, 2 veces por
+
+- Nivel: Intermedio
+
+- Duración: 24 horas, distribuidas en sesiones de 2 horas, 2 veces por
 semana (6 semanas).
-●​ Perfil de los participantes:
-○​ Infancias, personas jóvenes y adultas interesadas en la tecnología
+
+- Perfil de los participantes:
+    - Infancias, personas jóvenes y adultas interesadas en la tecnología
 aplicada al hogar, la automatización o el desarrollo de soluciones que
 mejoren la calidad de vida.
 Categoría
@@ -1336,18 +1441,25 @@ el bienestar comunitario.
 
 Objetivos particulares
 Al finalizar el curso:
-●​ El participante comprenderá los principios de la domótica y su impacto en la
+
+- El participante comprenderá los principios de la domótica y su impacto en la
 vida cotidiana.
-●​ El participante identificará los componentes esenciales de un sistema
+
+- El participante identificará los componentes esenciales de un sistema
 automatizado para el hogar.
-●​ El participante configurará sensores para monitorear variables como
+
+- El participante configurará sensores para monitorear variables como
 movimiento, iluminación o temperatura.
-●​ El participante programará dispositivos para ejecutar acciones automáticas.
-●​ El participante diseñará un sistema doméstico orientado a la seguridad, el
+
+- El participante programará dispositivos para ejecutar acciones automáticas.
+
+- El participante diseñará un sistema doméstico orientado a la seguridad, el
 ahorro energético o el confort.
-●​ El participante analizará la importancia del uso responsable de la tecnología y
+
+- El participante analizará la importancia del uso responsable de la tecnología y
 la seguridad digital.
-●​ El participante presentará un prototipo funcional aplicable a un entorno real.
+
+- El participante presentará un prototipo funcional aplicable a un entorno real.
 
 Duración
 La duración del taller se establece en 24 horas como referencia para permitir la
@@ -1538,37 +1650,60 @@ Expo tecnológica
 2 horas
 
 Material de apoyo:
-●​ Placas de desarrollo (ESP32, Arduino o equivalente)
-●​ Sensores (movimiento, temperatura, humedad, luz, gas, etc.)
-●​ Relés y módulos de control
-●​ LEDs y buzzers
-●​ Protoboard y cables jumper
-●​ Fuente de alimentación o baterías
-●​ Computadoras con software de programación
-●​ Router o red local
-●​ Apps de automatización
-●​ Bitácora del participante
+
+- Placas de desarrollo (ESP32, Arduino o equivalente)
+
+- Sensores (movimiento, temperatura, humedad, luz, gas, etc.)
+
+- Relés y módulos de control
+
+- LEDs y buzzers
+
+- Protoboard y cables jumper
+
+- Fuente de alimentación o baterías
+
+- Computadoras con software de programación
+
+- Router o red local
+
+- Apps de automatización
+
+- Bitácora del participante
 Material complementario:
-●​ Guías visuales
-●​ Simuladores
-●​ Videos demostrativos
-●​ Casos de uso reales
+
+- Guías visuales
+
+- Simuladores
+
+- Videos demostrativos
+
+- Casos de uso reales
 
 
 Evaluación
 La evaluación se concibe como un proceso de acompañamiento enfocado en la
 aplicación práctica del conocimiento.
 Principios:
-●​ El participante es protagonista de su aprendizaje.
-●​ El facilitador orienta y retroalimenta sin emitir juicios punitivos.
-●​ Se prioriza la funcionalidad del sistema sobre la memorización.
-●​ El aprendizaje se valida mediante la experiencia.
+
+- El participante es protagonista de su aprendizaje.
+
+- El facilitador orienta y retroalimenta sin emitir juicios punitivos.
+
+- Se prioriza la funcionalidad del sistema sobre la memorización.
+
+- El aprendizaje se valida mediante la experiencia.
 Evidencias:
-●​ Configuración de sensores
-●​ Automatización funcional
-●​ Integración del sistema
-●​ Resolución de problemas técnicos
-●​ Presentación del prototipo
+
+- Configuración de sensores
+
+- Automatización funcional
+
+- Integración del sistema
+
+- Resolución de problemas técnicos
+
+- Presentación del prototipo
 Infancias , Checklist
 Jóvenes, Reporte de proyecto
 Adultos, Checklist
@@ -1677,11 +1812,14 @@ transformación social. Se busca que las y los participantes pasen de ser usuari
 la tecnología a creadores activos.
 
 Información general
-●​ Nivel: Introducción – Intermedio
-●​ Duración: 24 horas, distribuidas en sesiones de 2 horas, 2 veces por
+
+- Nivel: Introducción – Intermedio
+
+- Duración: 24 horas, distribuidas en sesiones de 2 horas, 2 veces por
 semana (6 semanas).
-●​ Perfil de los participantes:
-○​ Infancias, personas jóvenes y adultas interesadas en la creatividad
+
+- Perfil de los participantes:
+    - Infancias, personas jóvenes y adultas interesadas en la creatividad
 digital, la programación y el desarrollo de proyectos tecnológicos con
 impacto comunitario.
 Categoría
@@ -1712,17 +1850,23 @@ desarrollo comunitario.
 
 Objetivos particulares
 Al finalizar el curso:
-●​ El participante comprenderá los fundamentos del pensamiento computacional
+
+- El participante comprenderá los fundamentos del pensamiento computacional
 y su aplicación en la resolución de problemas.
-●​ El participante utilizará herramientas de programación visual para crear
+
+- El participante utilizará herramientas de programación visual para crear
 proyectos interactivos.
-●​ El participante integrará sensores y dispositivos tecnológicos para enriquecer
+
+- El participante integrará sensores y dispositivos tecnológicos para enriquecer
 sus desarrollos creativos.
-●​ El participante aplicará procesos de diseño para transformar ideas en
+
+- El participante aplicará procesos de diseño para transformar ideas en
 prototipos funcionales.
-●​ El participante desarrollará soluciones tecnológicas que promuevan la
+
+- El participante desarrollará soluciones tecnológicas que promuevan la
 participación comunitaria.
-●​ El participante comunicará el valor social y creativo de su proyecto.
+
+- El participante comunicará el valor social y creativo de su proyecto.
 
 Duración
 La duración del taller se establece en 24 horas para favorecer un proceso creativo
@@ -1911,35 +2055,56 @@ tecnológico
 2 horas
 
 Material de apoyo:
-●​ Microcontroladores educativos (Micro:bit, Arduino o similares)
-●​ Sensores básicos
-●​ LEDs, buzzers y actuadores
-●​ Protoboard y cables jumper
-●​ Computadoras o tabletas
-●​ Software de programación visual
-●​ Material de prototipado (cartón, materiales reciclables, impresión 3D opcional)
-●​ Bitácora del participante
+
+- Microcontroladores educativos (Micro:bit, Arduino o similares)
+
+- Sensores básicos
+
+- LEDs, buzzers y actuadores
+
+- Protoboard y cables jumper
+
+- Computadoras o tabletas
+
+- Software de programación visual
+
+- Material de prototipado (cartón, materiales reciclables, impresión 3D opcional)
+
+- Bitácora del participante
 Material complementario:
-●​ Guías creativas
-●​ Retos impresos
-●​ Videos demostrativos
-●​ Ejemplos de proyectos
+
+- Guías creativas
+
+- Retos impresos
+
+- Videos demostrativos
+
+- Ejemplos de proyectos
 
 
 Evaluación
 La evaluación se concibe como un proceso de acompañamiento centrado en la
 experiencia del participante y la aplicación práctica de sus aprendizajes.
 Principios:
-●​ El participante es protagonista de su proceso formativo.
-●​ El facilitador orienta y retroalimenta.
-●​ Se prioriza la creatividad aplicada sobre la memorización.
-●​ El error se entiende como parte del proceso creativo.
+
+- El participante es protagonista de su proceso formativo.
+
+- El facilitador orienta y retroalimenta.
+
+- Se prioriza la creatividad aplicada sobre la memorización.
+
+- El error se entiende como parte del proceso creativo.
 Evidencias:
-●​ Desarrollo del prototipo
-●​ Integración tecnológica
-●​ Originalidad del proyecto
-●​ Participación colaborativa
-●​ Presentación comunitaria
+
+- Desarrollo del prototipo
+
+- Integración tecnológica
+
+- Originalidad del proyecto
+
+- Participación colaborativa
+
+- Presentación comunitaria
 Infancias , Checklist
 Jóvenes, Reporte de proyecto
 Adultos, Checklist
@@ -2047,11 +2212,14 @@ colaborativo, promoviendo la robótica como un medio para potenciar el talento,
 fortalecer la confianza técnica y generar comunidades de innovación.
 
 Información general
-●​ Nivel: Intermedio – Avanzado
-●​ Duración: 24 horas, distribuidas en sesiones de 2 horas, 2 veces por
+
+- Nivel: Intermedio – Avanzado
+
+- Duración: 24 horas, distribuidas en sesiones de 2 horas, 2 veces por
 semana (6 semanas).
-●​ Perfil de los participantes:
-○​ Infancias, personas jóvenes y adultas interesadas en profundizar sus
+
+- Perfil de los participantes:
+    - Infancias, personas jóvenes y adultas interesadas en profundizar sus
 conocimientos en robótica, especialmente quienes busquen participar
 en retos tecnológicos, competencias educativas o proyectos de mayor
 complejidad.
@@ -2084,19 +2252,26 @@ capacidades de innovación tecnológica.
 
 Objetivos particulares
 Al finalizar el curso:
-●​ El participante comprenderá los fundamentos de la robótica competitiva y
+
+- El participante comprenderá los fundamentos de la robótica competitiva y
 analizará distintos formatos de competencia educativa.
-●​ El participante diseñará estructuras mecánicas orientadas al rendimiento,
+
+- El participante diseñará estructuras mecánicas orientadas al rendimiento,
 considerando estabilidad, velocidad y eficiencia.
-●​ El participante integrará sistemas electrónicos y sensores para mejorar la
+
+- El participante integrará sistemas electrónicos y sensores para mejorar la
 precisión del robot.
-●​ El participante programará algoritmos de control que permitan ejecutar tareas
+
+- El participante programará algoritmos de control que permitan ejecutar tareas
 de manera autónoma o semiautónoma.
-●​ El participante aplicará procesos de prueba, medición y mejora continua para
+
+- El participante aplicará procesos de prueba, medición y mejora continua para
 optimizar el desempeño del robot.
-●​ El participante desarrollará estrategias de competencia basadas en el análisis
+
+- El participante desarrollará estrategias de competencia basadas en el análisis
 de retos.
-●​ El participante colaborará en dinámicas de equipo, fortaleciendo habilidades
+
+- El participante colaborará en dinámicas de equipo, fortaleciendo habilidades
 socioemocionales vinculadas al logro colectivo.
 
 Duración
@@ -2290,38 +2465,62 @@ tecnológico
 2 horas
 
 Material de apoyo:
-●​ Kits de robótica (Arduino, ESP32 o plataformas educativas)​
-●​ Chasis para robot competitivo​
-●​ Motores de alto desempeño​
-●​ Drivers de motor​
-●​ Sensores (línea, ultrasonido, color, proximidad)​
-●​ Baterías recargables​
-●​ Herramientas básicas (destornilladores, pinzas)​
-●​ Computadoras con software de programación​
-●​ Pista o arena de competencia​
-●​ Cronómetros o sistemas de medición​
-●​ Bitácora técnica​
+
+- Kits de robótica (Arduino, ESP32 o plataformas educativas)​
+
+- Chasis para robot competitivo​
+
+- Motores de alto desempeño​
+
+- Drivers de motor​
+
+- Sensores (línea, ultrasonido, color, proximidad)​
+
+- Baterías recargables​
+
+- Herramientas básicas (destornilladores, pinzas)​
+
+- Computadoras con software de programación​
+
+- Pista o arena de competencia​
+
+- Cronómetros o sistemas de medición​
+
+- Bitácora técnica​
 Material complementario:
-●​ Reglamentos de competencias educativas​
-●​ Retos impresos​
-●​ Videos técnicos
-●​ Simuladores
+
+- Reglamentos de competencias educativas​
+
+- Retos impresos​
+
+- Videos técnicos
+
+- Simuladores
 
 
 Evaluación
 La evaluación se concibe como un proceso de acompañamiento enfocado en la
 demostración funcional del aprendizaje.
 Principios:
-●​ El participante es protagonista del proceso formativo.
-●​ El facilitador observa, orienta y retroalimenta.
-●​ Se prioriza el desempeño técnico sobre la memorización.
-●​ El error se entiende como parte del aprendizaje.
+
+- El participante es protagonista del proceso formativo.
+
+- El facilitador observa, orienta y retroalimenta.
+
+- Se prioriza el desempeño técnico sobre la memorización.
+
+- El error se entiende como parte del aprendizaje.
 Evidencias:
-●​ Diseño del robot
-●​ Integración tecnológica
-●​ Optimización del prototipo
-●​ Aplicación de estrategias
-●​ Participación en el torneo final
+
+- Diseño del robot
+
+- Integración tecnológica
+
+- Optimización del prototipo
+
+- Aplicación de estrategias
+
+- Participación en el torneo final
 Infancias , Checklist
 Jóvenes, Reporte de proyecto
 Adultos, Checklist
